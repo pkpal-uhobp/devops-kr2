@@ -1,6 +1,6 @@
+# KR2: Noev
 import os
 import socket
-# KR2: Noev
 import redis
 from flask import Flask, request
 
